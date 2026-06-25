@@ -1,0 +1,12 @@
+{
+  "name": "Demo Electric Co",
+  "type": "electrical contractor",
+  "address": "Orlando, FL",
+  "phone": "(407) 555-0167",
+  "hours": "Mon-Fri 7am-6pm, 24/7 emergency service",
+  "services": ["panel upgrades", "wiring", "emergency electrical", "EV charger installation", "lighting"],
+  "primaryColor": "#1D4ED8",
+  "greeting": "Hi! Need an electrician?",
+  "tone": "calm and safety-focused — electrical issues can be scary",
+  "emergencyInstructions": "For sparking outlets, burning smell, or power outages, treat as urgent. Ask for name, address, and describe the issue. Tell them we can dispatch within 2 hours for electrical emergencies."
+}
