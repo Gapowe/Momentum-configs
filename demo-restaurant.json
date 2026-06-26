@@ -1,0 +1,15 @@
+{
+  "name": "Ember & Salt Kitchen",
+  "type": "restaurant",
+  "phone": "(555) 800-2240",
+  "address": "2240 Central Avenue, St. Petersburg, FL 33713",
+  "hours": {
+    "dinner": "Nightly 5pm–10pm",
+    "brunch": "Saturday & Sunday 10am–3pm"
+  },
+  "description": "Wood-fire restaurant in St. Petersburg, FL. Seasonal menu sourced within 150 miles. Menu changes monthly.",
+  "specialties": ["wood-fire cooking", "seasonal menu", "farm-to-table", "private dining"],
+  "reservations": true,
+  "privateEvents": true,
+  "maxPartySize": 30
+}
